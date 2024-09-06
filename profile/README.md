@@ -1,4 +1,4 @@
-# Hi! We're DeepinOcean Organization
+# Hi! We're DeepinRain Organization
 
 We are a passionate non-profit on a mission to make music accessible on Discord and beyond, for everyone. Our projects are built with a focus on compatibility, stability, and ease of use across all server environments. 🌀
 
