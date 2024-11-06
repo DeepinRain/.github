@@ -11,6 +11,7 @@ We are a passionate non-profit on a mission to make music accessible on Discord 
 ## Outstanding projects
 
 - ByteBlaze (discord music bot using TS)
+- LunaticSea (ByteBlaze rewritten but more modular and faster)
 - Rainlink (lavalink wrapper)
 - Cylane (discord music bot using JS / archived)
 - LavaStatusMonitor (discord lavalink monitoring bot using JS)
