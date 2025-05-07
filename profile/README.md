@@ -5,7 +5,7 @@ We are a passionate non-profit on a mission to make music accessible on Discord 
 ## Our target
 
 - [x] Developing our own lavalink wrapper
-- [ ] Making an alternative of Lavalink on C++
+- [ ] Making an alternative of Lavalink on Lua
 - [ ] Making an open source music platform
 
 ## Outstanding projects
